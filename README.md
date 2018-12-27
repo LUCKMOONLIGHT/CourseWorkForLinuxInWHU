@@ -1,4 +1,4 @@
-> #武汉大学开源软件工程项目
+> # 武汉大学开源软件工程项目   
 个性化旅游景点推荐系统的设计与实现
 
 ## 1.引言	
@@ -40,6 +40,6 @@
 ### 4.4评分功能
 ### 4.5管理功能	
 
-> 本项目成员： 陈家豪,严鸿昌
-项目链接： https://github.com/LUCKMOONLIGHT/CourseWorkForLinuxInWHU/edit/master/README.md
-版权声明： 本项目所有内容除特别声明外，均采用 CC BY-NC-ND 4.0 许可协议。转载请注明出处！
+> 本项目成员： 陈家豪 | 严鸿昌
+> 项目链接： https://github.com/LUCKMOONLIGHT/CourseWorkForLinuxInWHU/edit/master/README.md
+> 版权声明： 本项目所有内容除特别声明外，均采用 CC BY-NC-ND 4.0 许可协议。转载请注明出处！

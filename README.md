@@ -19,6 +19,7 @@
 （3）开发工具:数据库SQL Server 2017，Eclipse Release 4.6.0 (Neon)，数据库管理工具采用Microsoft SQL Server Management Studio 17（SSMS）。
 
 ### 2.4系统用例图	
+![SYSTEMTEC](/source/SYSTEMTEC.png) 
 ## 3.系统设计	
 ### 3.1系统结构设计	
 ### 3.2系统详细设计	
